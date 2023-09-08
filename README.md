@@ -1,4 +1,5 @@
 # Shoe-page
+https://shikhasharma06.github.io/Shoe-page/index.html
 ![Screenshot_5](https://github.com/Shikhasharma06/Shoe-page/assets/135316685/e5306e00-2674-4289-b12d-1d5518421802)
 ![Screenshot_6](https://github.com/Shikhasharma06/Shoe-page/assets/135316685/b489994e-62b3-4c8f-9584-9edb0b69d2df)
 In this part common tags like div, h1, p, main tags are used for dividing or creating layers of the html page.
